@@ -19,7 +19,7 @@
   ],
   "require": {
     "php": ">=5.5.0",
-    "modollarpo/jobs-common": "^2.0.0",
+    "modollarpo/jobs-adzuna": "dev-master",
     "guzzlehttp/guzzle": "^7.0"
   },
   "require-dev": {
